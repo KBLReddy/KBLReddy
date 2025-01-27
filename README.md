@@ -1,6 +1,6 @@
 # Hi there, I'm Balaji Lakshmana Reddy Karri 👋
 
-I'm an **Android Developer Intern** currently working at [Sen4a](https://sen4a.com), focusing on building high-quality mobile apps using **Kotlin** and **Jetpack Compose**. Passionate about mastering development tools and exploring new concepts in **Android Development**, **Game Development**, and **Operating Systems**.
+I'm an **Android Developer Intern** currently working at [Sen4a](https://www.sen4a-recruiters.com/), focusing on building high-quality mobile apps using **Kotlin** and **Jetpack Compose**. Passionate about mastering development tools and exploring new concepts in **Android Development**, **Game Development**, and **Operating Systems**.
 
 ## 🚀 About Me
 I aim to achieve high-level mastery in Android development, and I'm constantly looking for ways to make myself better as a developer. My ambitions stretch from working on powerful apps to contributing to open-source software and pushing the boundaries of what I can create and develop.
